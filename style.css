@@ -1,0 +1,24 @@
+.checked {
+  color: orange;
+}
+form label.required:after
+{
+    color: red;
+    content: " *";
+}
+
+form label.required:after
+{
+    color: red;
+    content: " *";
+}
+  form label.required:after
+{
+    color: red;
+    content: " *";
+}
+   form label.required:after
+{
+    color: red;
+    content: " *";
+}
